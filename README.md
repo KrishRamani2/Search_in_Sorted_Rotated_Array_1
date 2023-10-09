@@ -1,1 +1,2 @@
 # Search_in_Sorted_Rotated_Array_1
+This contains a naive solution problemSearch_in_Sorted_Rotated_Array
